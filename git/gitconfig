@@ -9,8 +9,8 @@
 
 # Global Config
 [user]
-    #name = "**Your Name**"
-    #email = "**Your Email**"
+    name = "Reese Morgan"
+    email = "ramorgan212@gmail.com"
     #signingkey = **Your GPG ID**
 
 [branch "master"]
@@ -145,4 +145,3 @@
 
 [url "git@github.com:"]
     insteadof = github:
-
