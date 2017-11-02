@@ -12,6 +12,7 @@
 *.pyo
 
 # IDE specific
+.idea
 dwsync.xml
 *.tmp
 *.wpr
@@ -45,4 +46,3 @@ Thumbs.db
 svn-commit.*
 tags
 TAGS
-
